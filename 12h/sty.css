@@ -1,4 +1,14 @@
 body video{
     float: left;
+    margin: 2px;
+    width: 20%;
     
+}
+.dat{
+    margin-top:1px;
+    bottom: unset;
+    display:flex;
+}
+.hung{
+    text-align: float;
 }
